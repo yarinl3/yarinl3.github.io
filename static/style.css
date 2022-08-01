@@ -1,0 +1,48 @@
+.center{
+    text-align: center;
+    justify-content: center;
+}
+.mt{
+    margin-top: 200px;
+}
+.mt2{
+	margin-top: 400px;
+}
+#message{
+    font-family: arial;
+	font-size: 3rem;
+}
+#instructions{
+	font-family: arial;
+	font-size: 2rem;
+}
+#instructions-div{
+	margin-right:10%;
+	text-align: right;
+    direction: rtl;
+}
+label {
+    white-space: pre-wrap;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn {
+	margin-top: 20px;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+}
+.dl{
+    display:none;
+}
